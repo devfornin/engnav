@@ -3,7 +3,7 @@ import './App.css';
 import TextField from './TextField';
 import NavBar from './NavBar';
 
-// class App extends Component {
+// class App extends Component {/
 //   state = {  }
 //   render() { 
 //     return (  );
