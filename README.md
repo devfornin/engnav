@@ -144,6 +144,6 @@ Video Demo: [YouTube](https://youtu.be/ppMojLehukI)
 
 ---
 
-> *“It’s not just a map. It’s a campus lifesaver.”*
+> *“It’s not just a map – it’s a campus lifesaver!”*
 
 ---
