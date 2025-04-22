@@ -30,7 +30,7 @@ Our target users:
 
 ### Why?
 
-Getting lost wastes time, makes people late for class, and adds unnecessary stress—especially during assessments or exams. This tool helps users navigate FoE quickly and reliably.
+Getting lost wastes time, makes people late for class, and adds unnecessary stress—especially during assessments or exams. This is a common frustration voiced by many NUS Engineering students.
 
 ---
 
@@ -133,7 +133,9 @@ Video Demo: [YouTube](https://youtu.be/ppMojLehukI)
 - [ ] Route visuals (map overlay or images)  
 - [ ] Wheelchair-friendly routing UI (backend ready)  
 - [ ] Facility finder (lower priority)  
-- [ ] Progressive Web App (targeting Splashdown)
+- [ ] Progressive Web App (targeting Splashdown)  
+- [ ] User feedback prompt after navigation (to improve future versions)
+
 
 ---
 
