@@ -11,9 +11,9 @@
 
 ---
 
-## ❓ The Problem
+## ❓ THE PROBLEM
 
-### What?
+### WHAT?
 
 Navigating NUS Engineering is notoriously difficult. The faculty is huge, sprawling across many buildings with confusing signage. Finding specific rooms (like LT1 or EA-06-23) using Google Maps just doesn’t work, and asking classmates often results in the same answer:  
 > "Just use Google Maps lol."  
