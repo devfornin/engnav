@@ -157,7 +157,7 @@ class TextField extends Component {
           }}
           className="btn btn-primary"
         >
-          Search
+          find
         </button>
         {this.renderDirections()}
       </div>

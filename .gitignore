@@ -1,3 +1,41 @@
-learning/neilbaner/mern-shopping-list/node_modules/*
-learning/neilbaner/NodejsWebDevelopmentFourthEdition_Code/*
+# Node modules
+node_modules/
 
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Vite cache
+.vite/
+
+# Env files
+.env
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Mac system files
+*.DS_Store
+
+# Optional npm cache directory
+.npm/
+
+# Output from 'next' or SSR builds (if using)
+.next/
+out/

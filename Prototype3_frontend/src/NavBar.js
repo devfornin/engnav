@@ -5,7 +5,7 @@ class NavBar extends Component {
     return (
       <div>
         <img src="https://imgur.com/uL51Lp8.png" width="80" height="80" />
-        <p>EngiNavigator</p>
+        <p>Navigation</p>
       </div>
     );
   }
