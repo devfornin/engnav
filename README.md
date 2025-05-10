@@ -13,7 +13,7 @@
 
 ---
 
-## ❓ The Problem
+## ❓ THE PROBLEM
 
 ### What?
 
@@ -36,11 +36,11 @@ Getting lost wastes time, makes people late for class, and adds unnecessary stre
 
 ---
 
-## ✅ Our Solution
+## ✅ OUR SOLUTION
 
 ### What?
 
-A custom **web application** built like Google Maps, but for **NUS Engineering**. Features:
+A custom **WEB APPLICATION** built like Google Maps, but for **NUS Engineering**. Features:
 
 - 🔍 Search for any room/location within FoE  
 - 🗺️ Get turn-by-turn walking directions between locations  
@@ -62,7 +62,7 @@ Technologies used:
 
 ---
 
-## 🗓️ Project Timeline
+## 🗓️ PROJECT TIMELINE
 
 ### Milestone 2 Updates
 
@@ -92,7 +92,7 @@ Technologies used:
 Try it: [Live App](https://bit.ly/2WSc6zm)  
 Video Demo: [YouTube](https://youtu.be/ppMojLehukI)
 
-#### Tech Summary
+#### TECH SUMMARY
 
 - React.js frontend built with `create-react-app`
 - Backend routing logic on AWS Lambda
